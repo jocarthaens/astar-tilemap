@@ -1,1 +1,11 @@
-  A custom implementation of A star algorithm that uses TileMapLayer for traversal. It contains post-smoothing functions to reduce the number of nodes needed to traverse
+A custom implementation of A star algorithm that uses TileMapLayer for traversal. It contains post-smoothing functions to reduce the number of nodes needed to traverse
+
+---
+![astar_tilemap](https://github.com/user-attachments/assets/61a25aa3-8ba4-4cb6-bcb7-cdd54cb0fe64)
+
+---
+
+---
+![astar_tilemap3](https://github.com/user-attachments/assets/8c7b1962-8ff2-4dce-b9d6-de5971eb2d8a)
+
+---
